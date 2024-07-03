@@ -1,48 +1,46 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aplicação das IAs Generativas na Atualidade ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto a gente vai mostrar a experiência adquirida no usso de deiferntes IAs Gerativas, testando algumas delas e conheciando a sua grande usabilidade no mundo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GTP-4
+Hey-Gen
+Descript
+D-ID
+Elevenlabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A primeira coisa que eu fiz, foi um prompt ao chat para falar sobre o usa das IAs Geartivas na Actualidade, e com I-ID gerei meu propio Avatar com quatro exeplos falando em os idiomas frances, portugues, espanhol e ingles.
+Com isso memos e com ajuda da ferramenta Descript,  eu extrai os textos do video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+As IAs generativas estão revolucionando diversos campos na atualidade. Essas tecnologias, baseadas em modelos avançados como o GPT-4, têm a capacidade de criar conteúdo original, desde texto até imagens e música, com uma qualidade surpreendente.
+
+No âmbito empresarial, as IAs generativas estão otimizando a criação de conteúdo publicitário e de marketing, gerando descrições de produtos, artigos de blog e campanhas completas de maneira eficiente. No setor de saúde, são utilizadas para criar modelos preditivos e gerar dados sintéticos que ajudam na pesquisa e desenvolvimento de tratamentos.
+
+Além disso, na educação, essas IAs estão proporcionando ferramentas personalizadas de aprendizado, adaptando o conteúdo educativo às necessidades individuais de cada estudante. A capacidade dessas IAs de entender e gerar linguagem natural também está melhorando a interação humano-computador, facilitando a criação de assistentes virtuais mais sofisticados e eficazes.
+
+Em resumo, as IAs generativas estão transformando a maneira como criamos e consumimos conteúdo, trazendo novas oportunidades e desafios em múltiplas indústrias.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É muito interessante e assustaDOR COMO AS IAS podem ter a capasidadede criar conteudo falso suplantando a nossa identidade, opinho que o usso destas tecnologias tem que ser de usso cuidadoso, ja que com elas podem-se suplantar as identidades das pessoas para finais de maldade. 
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK](Olá, sou Alex Nocua, estudante do Bootcamp de Backend em Python pela plataforma DIO. As IAs generativas estão revolucionando diversos campos na atualidade. Essas tecnologias, baseadas em modelos avançados como o GPT-4, têm a capacidade de criar conteúdo original, desde texto até imagens e música, com uma qualidade surpreendente. - Criado com o Chat GTP-4)
 - [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)](Frances: https://studio.d-id.com/share?id=0f82368621514d4d1bbbef01e806e087&utm_source=copy
+Ingles: https://studio.d-id.com/share?id=b10b54b6e5264a012c906c808d2d9602&utm_source=copy
+Portugues: https://studio.d-id.com/share?id=d7b8b953675cdfc9eb4e3886d026b2e5&utm_source=copy
+Espanhol: https://studio.d-id.com/share?id=a4492e39dda2f31cbca01072115690e1&utm_source=copy)
 
 ## Links Interessantes
 
