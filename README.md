@@ -36,7 +36,7 @@ Em resumo, as IAs generativas estão transformando a maneira como criamos e cons
 ### Exemplos e Insigths
 
 - [E-BOOK](Olá, sou Alex Nocua, estudante do Bootcamp de Backend em Python pela plataforma DIO. As IAs generativas estão revolucionando diversos campos na atualidade. Essas tecnologias, baseadas em modelos avançados como o GPT-4, têm a capacidade de criar conteúdo original, desde texto até imagens e música, com uma qualidade surpreendente. - Criado com o Chat GTP-4)
-- [Podcast](/exemplos/PODCAST.md)
+- [Podcast](/exemplos)
 - [Vídeo (Avatar Virtual)](Frances: https://studio.d-id.com/share?id=0f82368621514d4d1bbbef01e806e087&utm_source=copy
 Ingles: https://studio.d-id.com/share?id=b10b54b6e5264a012c906c808d2d9602&utm_source=copy
 Portugues: https://studio.d-id.com/share?id=d7b8b953675cdfc9eb4e3886d026b2e5&utm_source=copy
